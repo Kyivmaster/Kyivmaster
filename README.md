@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kyivmaster
+- 👀 I’m interested in creating complicated backend systems
+- 🌱 I’m currently learning Flask, Fastapi
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: https://t.me/kyivmaster
+- ⚡ Fun fact: https://nometa.xyz is the best rule for communications
